@@ -1,4 +1,12 @@
 # learn-vue
+
+# 复习指引
+- 入口文件：[main.js](src/main.js)
+
+
+
+
+
 # 常用命令
 - npm install
 - npm run dev
